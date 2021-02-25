@@ -116,7 +116,7 @@ mas tenha em mente que esta mensagem é de suma importancia, pois através dela 
 você se guiará pelo historico de mudanças de seu codigo.
 
 Geralmente essa mensagem segue o seguinte padrão:
-## "<PREFIXO> <DESCRIÇÃO>"
+## "PREFIXO: DESCRIÇÃO"
 
 O prefixo deve sinalizar o tipo de alteração sendo realizada em seu codigo, esta pode 
 ser uma alteração de concerto "fix", introdução de novas funcionalidades "feature", 
